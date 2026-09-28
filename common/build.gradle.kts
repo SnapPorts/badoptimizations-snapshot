@@ -9,6 +9,7 @@ architectury {
 	common("fabric", "neoforge") {
 		platformPackage("neoforge", "forge")
 	}
+	common("fabric")
 }
 
 loom {

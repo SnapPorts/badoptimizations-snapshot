@@ -30,6 +30,7 @@ subprojects {
 	}
 
 	repositories {
+		mavenLocal()
 		maven(url = "https://maven.terraformersmc.com/")
 	}
 
